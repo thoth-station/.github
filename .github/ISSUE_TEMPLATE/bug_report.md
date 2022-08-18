@@ -14,14 +14,15 @@ Steps to reproduce the behavior:
 4. See error
 
 ### Actual behavior
-<!-- If applicable, add screenshots to help explain your problem. -->
+<!-- What happens? If applicable, add screenshots to illustrate your problem. -->
 
 ### Expected behavior
 <!-- A clear and concise description of what you expected to happen. -->
 
 ### Environment information
 <!-- Please include names and versions of the components involved.
-If appropriate, include relevant parts of their configuration. -->
+When appropriate, please include relevant parts of their configuration,
+for example the content of .thoth.yaml -->
 
 ### Additional context
 <!-- Add any additional context information about the problem here. -->

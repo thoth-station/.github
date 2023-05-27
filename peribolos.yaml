@@ -64,95 +64,59 @@ orgs:
         has_wiki: false
         homepage: https://thoth-station.github.io/
       ansible-role-amun:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: This role will deploy all Amun components to a given OpenShift Project.
         has_projects: false
         has_wiki: false
       ansible-role-argo-workflows:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Ansible Role - Argo Workflows
         has_projects: false
         has_wiki: false
         homepage: https://galaxy.ansible.com/thoth-station/argo_workflows
       ansible-role-configmaps-and-secrets:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: This will create all ConfigMaps and Secrets required by Thoth.
         has_projects: false
         has_wiki: false
       ansible-role-core-imagestreams:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: A set of Ansible Roles used by Thoth
         has_projects: true
         has_wiki: false
       ansible-role-core-templates:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: This Ansible role will create an OpenShift Templates required to deploy Thoth.
         has_projects: false
         has_wiki: false
       ansible-role-cronjob:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Create a Thoth CronJob in an OpenShift Project/namespace.
         has_projects: false
         has_wiki: false
       ansible-role-kebechet:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         has_projects: true
       ansible-role-metrics-exporter:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: This Ansible role will deploy the Thoth Metrics Exporter to a given OpenShift Project.
         has_projects: false
         has_wiki: false
       ansible-role-postgresql:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Ansible role to provision PostgreSQL into Thoth
         has_projects: true
       ansible-role-postgresql-metrics-exporter:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Metrics exporter for Thoth's knowledge database
         has_projects: false
         has_wiki: false
       ash-api:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Topics in the Python ecosystem
         has_projects: false
         has_wiki: false
       build-analyzers:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: A tool to retrieve information from build logs.
         has_projects: false
@@ -167,17 +131,11 @@ orgs:
         has_projects: false
         has_wiki: false
       bz1816214-example:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Example for Bugzilla 1816214
         has_projects: true
         has_wiki: false
       cleanup-job:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: A job for cleaning up old OpenShift objects created by one-time analyses
         has_projects: true
@@ -215,9 +173,6 @@ orgs:
         has_wiki: false
         homepage: http://thoth-station.ninja/
       dependency-monkey:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: The "Dependency Monkey" is a service for validating of package dependencies within an application stack.
         has_projects: false
@@ -227,17 +182,11 @@ orgs:
         has_projects: false
         has_wiki: false
       dgraph-operator:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: A Dgraph Operator
         has_projects: false
         has_wiki: false
       dgraph-thoth-config:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: This is an OpenShift deployment for Dgraph
         has_projects: false
@@ -247,16 +196,10 @@ orgs:
         has_projects: false
         has_wiki: false
       elyra-resnet:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         has_projects: true
         has_wiki: false
       external-janusgraph-service:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: This Ansible role will create an OpenShift Service object to integrate an external JanusGraph Server.
         has_projects: false
@@ -270,9 +213,6 @@ orgs:
         has_projects: false
         has_wiki: false
       goblinoid:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Create a graph database schema and indexes from source code automatically
         has_projects: true
@@ -282,9 +222,6 @@ orgs:
         has_wiki: false
         homepage: https://thoth-station.ninja/docs/developers/storages
       graph-cache-refresh-job:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: A job which refreshes graph cache
         has_projects: true
@@ -302,17 +239,11 @@ orgs:
         has_wiki: false
         homepage: https://thoth-station.github.io/
       graph-sync-scheduler:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: OpenShift operator for managing Thoth's graph syncs
         has_projects: false
         has_wiki: false
       graphexp:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Graph explorer for Thoth
         has_projects: false
@@ -335,9 +266,6 @@ orgs:
         has_wiki: false
         homepage: http://softwarecollections.org
       image-pusher:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Push images to an external registry from internal OpenShift registry
         has_projects: true
@@ -364,9 +292,6 @@ orgs:
         description: API exposing algorithms on top of project2vec
         has_projects: false
       janusgraph-thoth-config:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Thoth's additions to JanusGraph
         has_projects: false
@@ -376,9 +301,6 @@ orgs:
         has_projects: false
         has_wiki: false
       jupyter-nbtemplates:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Jupyter Notebook extension for template notebooks.
         has_projects: true
@@ -391,9 +313,6 @@ orgs:
         has_projects: false
         has_wiki: false
       jupyter-notebooks:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Jupyter Notebooks for OpenDataHub
         has_projects: false
@@ -411,9 +330,6 @@ orgs:
         has_projects: false
         has_wiki: false
       kebechet-website-tooling:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: This is for the Kebechet website
         has_projects: false
@@ -454,9 +370,6 @@ orgs:
         has_projects: false
         has_wiki: false
       microbenchmarks:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Collection of microbenchmarks for various AI/ML libraries
         has_projects: true
@@ -470,25 +383,16 @@ orgs:
         has_projects: false
         has_wiki: false
       moldavite-api:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Moldavite - a Project Meteor Proof-of-Concept
         has_projects: true
         has_wiki: false
       naming-service:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Naming Service, ask me if you want to find things...
         has_projects: true
         has_wiki: false
       nefertem:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Check a Python codebase for issues and not so beautiful code
         has_projects: false
@@ -503,9 +407,6 @@ orgs:
         has_wiki: false
         homepage: https://thoth-station.github.io/
       nvidia-usage-dashboard:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: A grokket based NVIDIA usage analysis
         has_issues: false
@@ -513,9 +414,6 @@ orgs:
         has_wiki: false
         private: true
       observations:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Observations from Build Logs
         has_projects: false
@@ -540,33 +438,21 @@ orgs:
         has_projects: false
         has_wiki: false
       osiris:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Build log aggregation service which integrates with OpenShift and Ceph storage.
         has_projects: false
         has_wiki: false
       osiris-build-observer:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Openshift namespace build event observer.
         has_projects: false
         has_wiki: false
       package-analyzer:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Analyze Python artifacts
         has_projects: false
         has_wiki: false
       package-build-controller:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: OpenShift controller/operator to Build tensorflow, numpy packages
         has_projects: false
@@ -593,34 +479,22 @@ orgs:
         description: All code required to help pipelines (e.g Tekton).
         has_projects: false
       pipelines-catalog:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: A repository for OpenShift Pipelines tasks
         has_issues: false
         has_projects: false
         has_wiki: false
       pipenv:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: ' Python Development Workflow for Humans.'
         has_issues: false
         has_projects: true
         homepage: https://pipenv.kennethreitz.org
       postgresql-thoth-config:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: This is an OpenShift deployment for PostgreSQL as used in Thoth
         has_projects: true
       prescription-sync-job:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Sync prescriptions in a Thoth deployment
         has_projects: true
@@ -630,9 +504,6 @@ orgs:
         has_wiki: false
         homepage: https://thoth-station.ninja/docs/developers/adviser/prescription.html
       prescriptions-gh-release-notes-job:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Automatically construct prescriptions for linking GitHub release notes based on thoth-solver results
         has_projects: true
@@ -641,9 +512,6 @@ orgs:
         has_projects: false
         has_wiki: false
       prometheus-pushgateway:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: An Ansible role to deploy a Prometheus Pushgateway to an OpenShift project.
         has_projects: false
@@ -687,17 +555,11 @@ orgs:
         has_projects: false
         has_wiki: false
       qeb-hwt:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: I'm Kebechet bot, goddess of freshness - I will keep your dependencies fresh and up-to-date
         has_projects: false
         has_wiki: false
       rapidsai-build:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         default_branch: branch-0.7
         description: RAPIDS from-source and Docker build files
@@ -718,9 +580,6 @@ orgs:
         has_projects: false
         has_wiki: false
       report-visualization:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: This library is used to visualize processed reports as created by report-processing library from Thoth components reports/outputs.
         has_projects: true
@@ -730,9 +589,6 @@ orgs:
         has_projects: false
         has_wiki: false
       result-api:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: API service that handles data storing in project Thoth
         has_projects: false
@@ -751,9 +607,6 @@ orgs:
         has_projects: false
         has_wiki: false
       s2i-example-flask:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Example of an Python's s2i application consuming Thoth's recommendations
         has_projects: true
@@ -804,24 +657,15 @@ orgs:
         has_wiki: false
         homepage: https://thoth-station.ninja/search
       selinon-api:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: API exposing data workloads of Selinon flows to users
         has_projects: true
       selinon-worker:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Selinon worker used for data gathering, data cleansing and experiments in project Thoth
         has_projects: true
         has_wiki: false
       sentry-openshift:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: 'Deployment of Sentry onto OpenShift for monitoring your OpenShift application '
         has_projects: true
@@ -862,17 +706,11 @@ orgs:
         has_projects: false
         has_wiki: false
       solver-errors-reporter:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Cluster solver errors collected by Thoth Dependency Solver and report back to take actions.
         has_projects: true
         has_wiki: false
       solver-project-url-job:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: A job responsible for extracting project URL information out of solver documents
         has_projects: true
@@ -913,9 +751,6 @@ orgs:
         has_wiki: false
         private: true
       stub-api:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: This is a project demonstrating the basic structure of a API Service as used by the Thoth-Station.
         has_projects: false
@@ -943,32 +778,20 @@ orgs:
         has_wiki: false
         homepage: https://tensorflow.org
       tensorflow-build-s2i:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Source-to-Image Builder Image for building Tensorflow binaries artifacts on OpenShift
         has_projects: false
         has_wiki: false
       tensorflow-release-api:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: 'A application to release tensorflow builds '
         has_projects: false
         has_wiki: false
       tensorflow-release-job:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: A job for triggering new builds and jobs for tensorflow-build releases
         has_projects: true
       tensorflow-serving-build:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Tensorflow serving binary build
         has_projects: true
@@ -980,9 +803,6 @@ orgs:
         description: C extension for CPython implementing termial random
         has_projects: false
       test-infra:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Test infrastructure for the Kubernetes project.
         has_issues: false
@@ -1047,9 +867,6 @@ orgs:
         has_wiki: false
         homepage: https://thoth-station.github.io/
       website:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Thoth Station public website.
         has_projects: false
@@ -1060,9 +877,6 @@ orgs:
         has_wiki: false
         private: true
       workflow-controller:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         has_projects: true
       workflow-helpers:
@@ -1070,32 +884,20 @@ orgs:
         has_projects: false
         has_wiki: false
       workflows:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Argo workflows used to get certain Thoth jobs done.
         has_projects: false
         has_wiki: false
       workload-operator:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         description: Operator for managing jobs in project Thoth
         has_projects: false
         has_wiki: false
       zuul-config:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         has_projects: false
         has_wiki: false
       zuul-jobs:
-        allow_merge_commit: false
-        allow_rebase_merge: false
-        allow_squash_merge: false
         archived: true
         has_projects: false
         has_wiki: false

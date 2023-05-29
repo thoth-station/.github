@@ -42,6 +42,7 @@ orgs:
         has_wiki: false
         homepage: https://thoth-station.github.io
       aicoe-ci-pulp-upload-example:
+        archived: true
         description: A small example demonstrating Python package releases uploaded using AICoE-CI to Operate First Pulp instance.
         has_projects: false
         has_wiki: false
@@ -530,14 +531,17 @@ orgs:
         has_projects: false
         has_wiki: false
       pulp-metrics-exporter:
+        archived: ture
         description: Metrics exporter exporting information about Pulp
         has_projects: false
         has_wiki: false
       pulp-operate-first-web:
+        archived: true
         description: Docs for Pulp on operate-first.cloud
         has_projects: false
         has_wiki: false
       pulp-pypi-sync-job:
+        archived: true
         description: A periodic job that monitors new repositories created on Pulp instances
         has_projects: false
         has_wiki: false

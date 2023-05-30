@@ -425,7 +425,7 @@ orgs:
         has_projects: false
         has_wiki: false
       odo-devfiles-registry:
-        description: 'A repository of devfile 2.0 stacks for odo '
+        description: "A repository of devfile 2.0 stacks for odo "
         has_issues: false
         has_projects: false
         has_wiki: false
@@ -487,7 +487,7 @@ orgs:
         has_wiki: false
       pipenv:
         archived: true
-        description: ' Python Development Workflow for Humans.'
+        description: " Python Development Workflow for Humans."
         has_issues: false
         has_projects: true
         homepage: https://pipenv.kennethreitz.org
@@ -570,12 +570,15 @@ orgs:
         has_projects: false
         has_wiki: false
       ray-ml-notebook:
+        archived: true
         has_projects: false
         has_wiki: false
       ray-ml-worker:
+        archived: true
         has_projects: false
         has_wiki: false
       ray-operator:
+        archived: true
         description: ray operator
         has_projects: false
         has_wiki: false
@@ -618,30 +621,37 @@ orgs:
         description: An example repository for a project to be migrated to use Thoth (demo)
         has_projects: false
       s2i-generic-data-science-notebook:
+        archived: true
         has_projects: false
         has_wiki: false
       s2i-minimal-notebook:
+        archived: true
         description: A minimal Jupyter Notebook S2I image
         has_projects: false
       s2i-python-container:
+        archived: true
         description: Python container images based on Red Hat Software Collections and intended for OpenShift and general usage, that provide a platform for building and running Python applications. Users can choose between Red Hat Enterprise Linux, Fedora, and CentOS based images.
         has_issues: false
         has_projects: false
         has_wiki: false
         homepage: http://softwarecollections.org
       s2i-pytorch-notebook:
+        archived: true
         description: s2i image build repository for jupyter notebook PyTorch related packages.
         has_projects: false
         has_wiki: false
       s2i-scipy-notebook:
+        archived: true
         description: s2i image build repository for jupyter notebook SciPy related packages.
         has_projects: false
         has_wiki: false
       s2i-tensorflow-gpu-notebook:
+        archived: true
         description: s2i image build repository for jupyter notebook with TensorFlow GPU related packages.
         has_projects: false
         has_wiki: false
       s2i-tensorflow-notebook:
+        archived: true
         description: s2i image build repository for jupyter notebook TensorFlow related packages.
         has_projects: false
         has_wiki: false
@@ -671,7 +681,7 @@ orgs:
         has_wiki: false
       sentry-openshift:
         archived: true
-        description: 'Deployment of Sentry onto OpenShift for monitoring your OpenShift application '
+        description: "Deployment of Sentry onto OpenShift for monitoring your OpenShift application "
         has_projects: true
         has_wiki: false
       si-aggregator:
@@ -776,6 +786,7 @@ orgs:
         has_projects: false
         has_wiki: false
       tensorflow:
+        archived: true
         description: An Open Source Machine Learning Framework for Everyone
         has_issues: false
         has_projects: true
@@ -788,7 +799,7 @@ orgs:
         has_wiki: false
       tensorflow-release-api:
         archived: true
-        description: 'A application to release tensorflow builds '
+        description: "A application to release tensorflow builds "
         has_projects: false
         has_wiki: false
       tensorflow-release-job:
@@ -855,6 +866,7 @@ orgs:
         has_projects: false
         has_wiki: false
       ttm-as-a-service:
+        archived: true
         default_branch: main
         description: This is a service that implements the time to merge model (ttm)
         has_projects: false

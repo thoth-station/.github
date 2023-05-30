@@ -837,6 +837,7 @@ orgs:
         has_projects: false
         has_wiki: false
       thoth-github-action:
+        archived: true
         description: GitHub action for communicating with thoth services
         has_projects: false
         has_wiki: false

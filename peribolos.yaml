@@ -877,7 +877,6 @@ orgs:
         description: This is our place to tweet together...
         has_projects: false
         has_wiki: false
-        private: true
       user-api:
         description: Web Service exposing Thoth functions to the RESTful worlds
         has_projects: false

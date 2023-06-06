@@ -363,10 +363,12 @@ orgs:
         has_projects: false
         has_wiki: false
       mi:
+        archived: true
         description: an experiment on Source Operation Metrics
         has_projects: false
         has_wiki: false
       mi-scheduler:
+        archived: true
         description: This repository schedules workflows for thoth-station/mi project
         has_projects: false
         has_wiki: false

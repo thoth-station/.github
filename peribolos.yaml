@@ -750,12 +750,10 @@ orgs:
         has_projects: false
         has_wiki: false
         homepage: https://status.thoth-station.ninja/
-        private: true
       statusfy-ops:
         description: I operate the website to show the status of services of the Thoth Station
         has_projects: false
         has_wiki: false
-        private: true
       storages:
         description: Storage and database adapters for project Thoth
         has_projects: false
@@ -765,7 +763,6 @@ orgs:
         description: Stress tests for Thoth's User API
         has_projects: false
         has_wiki: false
-        private: true
       stub-api:
         archived: true
         description: This is a project demonstrating the basic structure of a API Service as used by the Thoth-Station.
@@ -847,7 +844,6 @@ orgs:
         description: This is a Red Hat internal ops repo...
         has_projects: false
         has_wiki: false
-        private: true
       thoth-ops-infra:
         description: Infrastructure project to have collections of container images.
         has_projects: false

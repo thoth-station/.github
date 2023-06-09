@@ -533,7 +533,7 @@ orgs:
         has_projects: false
         has_wiki: false
       pulp-metrics-exporter:
-        archived: ture
+        archived: true
         description: Metrics exporter exporting information about Pulp
         has_projects: false
         has_wiki: false

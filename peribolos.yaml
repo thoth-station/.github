@@ -841,6 +841,7 @@ orgs:
         has_projects: false
         has_wiki: false
       thoth-ops:
+        archived: true
         description: This is a Red Hat internal ops repo...
         has_projects: false
         has_wiki: false
